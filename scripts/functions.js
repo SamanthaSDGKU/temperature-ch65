@@ -5,7 +5,7 @@ function sayHello(){
     console.log("Hello cohort 65");
 }
 
-//2. call/trigger/run/execute fn (code,console, user)
+//2. call/trigger/run/execute fn (code, console, user)
 sayHello(); // code run
 sayHello(); // code run
 sayHello(); // code run
